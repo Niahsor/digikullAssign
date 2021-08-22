@@ -1,0 +1,2 @@
+# digikullAssign
+For Practice 
