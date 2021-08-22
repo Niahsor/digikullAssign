@@ -1,2 +1,2 @@
-# digikullAssign
+# DigikullAssign
 For Practice 
